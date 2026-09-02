@@ -87,7 +87,6 @@ that supports Node or edge runtimes (Cloudflare, Vercel, Netlify, Fly.io).
 
 Issues and feature requests are welcome.
 
-## License
+---
 
-MIT — see [LICENSE](LICENSE) if present, otherwise all rights reserved by the
-repository owner.
+Made with 💚 with the help of A.I.
